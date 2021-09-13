@@ -16,9 +16,10 @@ let styles = StyleSheet.create({
         backgroundColor: 'silver',
         justifyContent: 'center',
         textAlign: 'center',
-        marginBottom: 3,
-        width: '70%',
-        height: 400
+        marginBottom: 40,
+        width: '100%',
+        height: 20
+
     },
 
 });
